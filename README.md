@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="mailto:wahanarekatekindo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="wahanarekatekindo@gmail.com"></a>
+  <a href="https://maps.app.goo.gl/cvWzFZt3ZNiXaZZD8" target="_blank"><img src="https://img.shields.io/badge/Google%20Maps-4285F4.svg?style=for-the-badge&logo=Google-Maps&logoColor=white" alt="PT. Wahana Reka Tekindo"></a>
 </p>
 
 #
